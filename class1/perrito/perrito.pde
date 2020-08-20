@@ -1,3 +1,5 @@
+
+
 //comentarios
 
 
@@ -28,11 +30,22 @@ void draw() {
   //fill(255,0,255);
   noFill();
   beginShape();
-  
+ 
   vertex(100,100,0);
   vertex(200,100,0);
   vertex(200,200,0);
-  vertex(100,200,0);
+  
+  vertex(400,200,0);
+  vertex(400,350,0);
+  vertex(400,350,0);
+  vertex(350,350,0);
+  vertex(350,250,0);
+  vertex(250,250,0);
+  vertex(250,350,0);
+  vertex(200,350,0);
+  vertex(200,250,0);
+  vertex(50,250,0);
+  vertex(50,150,0);
   endShape(CLOSE);
   rect(mouseX,mouseY, 50,50);
 }
