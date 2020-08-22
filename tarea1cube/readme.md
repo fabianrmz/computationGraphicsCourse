@@ -1,3 +1,4 @@
 
 ## C U B E        A S S I G M E N T
-![cubeImage](https://raw.githubusercontent.com/fabianrmz/computationGraphicsCourse/master/cubeImage.png)
+![cubeImage](https://raw.githubusercontent.com/fabianrmz/computationGraphicsCourse/tarea1cube/cubeImage.PNG)
+
