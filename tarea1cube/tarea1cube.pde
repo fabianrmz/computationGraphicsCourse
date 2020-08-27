@@ -19,14 +19,14 @@ void setup (){
 
 void draw() {
   background(135, 235, 164);
-  stroke(0,255,255);
+  stroke(0,0,255);
   
   if (mousePressed == true) {
     translate(mouseX,mouseY,0);
     currentX=mouseX;
     currentY=mouseY;
   }else{
-    translate(currentX,currentY,50);
+    translate(currentX,currentY,0);
   }
   
   
